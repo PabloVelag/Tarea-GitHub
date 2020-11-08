@@ -1,5 +1,9 @@
-*No hay acentos
-
 Para el segundo ejercicio teniamos que elaborar una grafica por estado y con detalles de puertas de puntos que 
 muestre el comportamiento de "Pedestrians". 
 
+En número de gente que pasa a pie por estado es muy diferente dependiendo del estado. Hay unos estados en los que mucha gente pasa a 
+pie y hay otros estados que tienen un flujo de personas muy reducido. Algo que comparten todos los estados a excepción de uno es que 
+hay una puerta con un gran volumen de personas y las demás puertas parecen ser ignoradas. Se puede decir que todas las personas toman la misma ruta 
+para cruzar. El estado que no comparte de manera tan clara la tendencia es Alaska. Esto probablemente se debe a que Alaska tiene una frontera muy
+grande con Canadá. Al tener una frontera tan grande la gente se ve forzada a usar diferentes puertas dependiendo a donde quiere ir. Algo que no 
+parece ser problema en los demás estados.
