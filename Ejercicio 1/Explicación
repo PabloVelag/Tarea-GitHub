@@ -1,1 +1,12 @@
-bernjcenkjncenjkcenjkenjk
+*El programa no permite colocar acentos.
+
+Para el primer ejercicio teníamos que generar una gráfica de línea para cada estado, sin detalle de puertas, 
+que muestre como ha crecido o decrecido el paso de "Personal Vehicles" a lo largo del tiempo.
+
+A pesar de que el numero de puertas entre Canada y Estados Unidos difiere mucho por estado todos los estados muestran un comportamiento similar. 
+En general, al principio del año no pasan muchos vehiculos entre Canada y Estados Unidos. Cuando empieza a subir la temperatura
+en los inicios del verano se nota un incremento substancial en el numero de vehiculos que cruzan la frontera. Consecuentemente, cuando
+vuelve a bajar la temperatura vuelve a decrecer el numero de coches que cruzan. Es importante recalcar que la temperatura en el norte de Estados
+Unidos y en Canada en el invierno puede alcanzar facilmente temperaturas de 10 grados bajo cero por lo que afecta el estilo de vida de las personas. 
+El unico estado que muestra un comportamiento diferente es Michigan y eso se debe (supongo) a que la gente de Michigan tiene una relacion mas 
+importante con sus vecinos del norte de trabajo y comercio. Una relacion mas parecida a la que tenemos los mexicanos con nuestras ciudades frontera.
